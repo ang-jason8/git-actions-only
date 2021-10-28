@@ -1,0 +1,1 @@
+[![scheduled](https://github.com/ang-jason8/git-actions-only/actions/workflows/03-scheduled.yml/badge.svg)](https://github.com/ang-jason8/git-actions-only/actions/workflows/03-scheduled.yml)
